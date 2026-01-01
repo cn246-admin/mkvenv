@@ -1,5 +1,8 @@
 # mkvenv
 
+> [!IMPORTANT]
+> I have stopped using/maintaining this tool and a have been using [uv](https://github.com/astral-sh/uv) for my venv needs instead.
+
 Create and maintain Python venvs.
 
 I keep my venvs in a central location (`~/.local/lib/venv/*`) which makes maintenance much easier.
